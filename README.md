@@ -21,7 +21,4 @@ Contributing :
 
 We welcome contributions to our Music Player. If you find a bug or have a feature request, please create an issue on our GitHub repository. If you'd like to contribute code, please fork the repository and create a pull request with your changes.
 
-Contact :
-
-
 We hope you enjoy using Music Player!
