@@ -7,7 +7,7 @@ Features :
 2. Customizable color scheme
 3. Support for various audio file formats
 4. Easy navigation and control of your music library
-5. Built-in equalizer for better sound quality
+5. Built-in equalizer for better sound quality.
 6. Integration with popular music streaming services
 
 Usage : 
